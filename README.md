@@ -20,13 +20,13 @@ Detectron2 來進行語意分割(Semantic Segmentation),從而將模板中的家
 
 ## 系統架構
 
-![系統架構](Img/系統架構.jpg)
+![系統架構](Img/系統架構.JPG)
 
 ## 系統流程
 
 整個推薦系統架設在以Flask建立的[Server](Server)上，包含圖片分割、以圖搜圖以及風格分類的功能。
  
-![系統流程](Img/系統流程.jpg)
+![系統流程](Img/系統流程.JPG)
 
 
 
